@@ -1,18 +1,18 @@
 1.  pir 센서 견착
   현재 3 mm 로 타공이 되어 있어 2.6 mm 로 변경
-  <img src="./images/xi_9.png"  width="600px">
+  <img src="./images/xi_9.jpg"  width="600px">
   
 3.  카메라 모듈 견착
   180 도로 회전. 타공 2.6 mm 로 변경
-  <img src="./images/xi_8.png"  width="600px">
+  <img src="./images/xi_8.jpg"  width="600px">
   
 5.  마이크 견착
   견착이 안되어 있는 전면 수정(어떻게 할지는 모름)
-    <img src="./images/xi_4.png"  width="600px">
+    <img src="./images/xi_4.jpg"  width="600px">
 7.  rfid 카드
 
   가운데 정렬이 되지 않아 타공 크기를 더 작게 만들어 달라고 요청함
-    <img src="./images/xi_1.png"  width="600px">
+    <img src="./images/xi_1.jpg"  width="600px">
 10.  프린트
   견착이 너무 타이트해서 3 mm 정도 크게해준다 함
   
@@ -27,7 +27,7 @@
   
 18.  보관함 열사이 체결 나사
   엔터정밀에서 사용한 나사 이용해야 할것 같음 
-      <img src="./images/xi_2.png"  width="600px">
+      <img src="./images/xi_2.jpg"  width="600px">
 21.  오른쪽 가이드 보관함 문이 걸리는 문제 
   가드 보관함 사이 간격   7mm  늘린다 함
   
